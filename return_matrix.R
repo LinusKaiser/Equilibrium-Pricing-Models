@@ -73,18 +73,4 @@ corrplot(DOW_cor_matrix)
 
 DOW_return_matrix
 
-tq_performance_fun_options()
-
-
-
-
-
-
-
-
-
-
-
-
-
 
